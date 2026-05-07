@@ -268,18 +268,6 @@ Shipping the *story* of what you built matters as much as the build itself.
 - **[Hashnode](https://hashnode.com)** — Developer-focused blogging. Free custom domain.
 - **[Beehiiv](https://beehiiv.com)** — Newsletter platform. More creator-friendly than Substack on monetization.
 
-### Build-in-public rhythm
-
-A weekly cadence is the difference between "I post sometimes" and "I have an audience." Here's the rhythm I run, all linked through the [Made Without Instructions](https://medium.com/@byeadro) brand:
-
-- **Motivation Monday** — short post, mindset, the why
-- **AI Tools Tuesday** — one tool, what it does, how I use it
-- **MWI Wednesday** — the build log post, what I shipped this week
-- **Founder Thursday** — operator-side content, lessons, mistakes
-- **Free Game Friday** — tactic, framework, or tool I'm giving away
-
-Pick whatever rhythm works for you. The point isn't the days; it's the consistency.
-
 ---
 
 ## 🎓 Learning Resources
@@ -334,22 +322,6 @@ Where the actual builders hang out.
 - **[r/SaaS](https://reddit.com/r/SaaS)** — SaaS-focused.
 - **[Y Combinator Startup School](https://startupschool.org)** — Free, online, excellent.
 - **[Build in Public on X](https://twitter.com/search?q=%23buildinpublic)** — The hashtag where the daily building happens.
-
----
-
-## 🏗️ Real Builds (Show, Don't Tell)
-
-Public repos by non-technical founders who've actually shipped real things with AI. Proof that this works.
-
-> *Have a real build to add? [Open a PR](CONTRIBUTING.md). The bar: it shipped, you (or someone like you) built it, AI was the primary collaborator.*
-
-- **[byeadro/cee](https://github.com/byeadro/cee)** — Claude Execution Engine. A deterministic Python pipeline for prompt construction. 1,531 tests, bible-first development, full audit trails. *Built solo with Claude Code.*
-- **[byeadro/wunanddone](https://github.com/byeadro/wunanddone)** — $1/month single-task web app. Live and deployed at [wunanddone.vercel.app](https://wunanddone.vercel.app).
-- **[byeadro/founderos](https://github.com/byeadro/founderos)** — Personal operating system for solo founders. Active development.
-- **[byeadro/Virgil](https://github.com/byeadro/Virgil)** — *Coming soon — public reveal in progress.*
-- **[byeadro/Devlog](https://github.com/byeadro/Devlog)** — Personal journal and dev log Chrome extension backed by Firebase.
-- **[byeadro/embra-archive](https://github.com/byeadro/embra-archive)** — Consolidated archive of every Embra prototype, with full git history. The journey of a B2B EdTech/LegalTech startup built in public.
-- *Add yours →*
 
 ---
 
